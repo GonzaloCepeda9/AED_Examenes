@@ -1,13 +1,5 @@
 lista_pokemons = [
-    {
-        "nombre": "Bulbasaur",
-        "numero": 1,
-        "tipos": ["Planta", "Veneno"],
-        "debilidades": ["Fuego", "Hielo", "Veneno", "Volador", "Bicho", "Tierra", "Psíquico"],
-        "mega_evolucion": False,
-        "gigamax": False
-    },
-
+    {"nombre": "Bulbasaur", "numero": 1, "tipos": ["Planta", "Veneno"], "debilidades": ["Fuego", "Hielo", "Veneno", "Volador", "Bicho", "Tierra", "Psíquico"], "mega_evolucion": False, "gigamax": False},
     {"nombre": "Ivysaur", "numero": 2, "tipos": ["Planta", "Veneno"], "debilidades": ["Fuego", "Hielo", "Veneno", "Volador", "Bicho", "Tierra", "Psíquico"], "mega_evolucion": False, "gigamax": False},
     {"nombre": "Venusaur", "numero": 3, "tipos": ["Planta", "Veneno"], "debilidades": ["Fuego", "Hielo", "Veneno", "Volador", "Bicho", "Tierra", "Psíquico"], "mega_evolucion": True, "gigamax": True},
     {"nombre": "Charmander", "numero": 4, "tipos": ["Fuego"], "debilidades": ["Agua", "Tierra", "Roca"], "mega_evolucion": False, "gigamax": False},
